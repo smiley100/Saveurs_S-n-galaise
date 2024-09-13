@@ -1,0 +1,247 @@
+{
+  "plats-traditionnels": [
+    {
+      "id": 1,
+      "title": "Tiébou dieune bou wékh",
+      "videoCuisson": "https://www.youtube.com/watch?v=VHYzLnmAvnY",
+      "categorie": "repas",
+      "description": "Le plat national du Sénégal, composé de poisson, riz et légumes.",
+      "fullDescription": "Le Thiéboudienne, parfois orthographié 'Ceebu Jën', est bien plus qu'un simple repas. Ce plat représente l'essence de la cuisine sénégalaise. Préparé avec du poisson mariné, souvent du mérou ou de la dorade, du riz cuit dans une sauce tomate épicée, et accompagné de légumes tels que des carottes, du chou, et des aubergines. Le plat est souvent agrémenté de yét (mollusque séché), de guedj (poisson séché),de piment,etc...",
+      "imageUrl": "https://drive.google.com/file/d/1QrCTKJCaymF2UE7EqR11lRb4hOnrb9HT/view?usp=drive_link",
+      "histoireEtOrigine": "Originaire de Saint-Louis, ce plat a été inventé par Penda Mbaye au XIXe siècle.",
+      "ingredients": [
+        "Poisson (mérou, dorade)",
+        "Riz",
+        "ail",
+        "persil",
+        "sel de mer"
+        "poivre",
+        "Tomates",
+        "Oignons",
+        "Carottes",
+        "Chou",
+        "Aubergines",
+        "Piments",
+        "Yét (mollusque séché)",
+        "Guedj (poisson séché)"
+      ],
+    },
+    {
+      "id": 2,
+      "title": "Tiébou dieune bou khonk",
+      "videoCuisson": "https://www.youtube.com/watch?v=4J_BkH-d_hI",
+      "categorie": "repas",
+      "description": "Un dérivé du plat national du Sénégal, composé de poisson, de riz , de légumes et un surplus de sauce tomate.",
+      "fullDescription": "Le Tiébou dieune bou khonk, est un derivé du fameux thié bou dieune bou wékh avec un surplus de tomate.Préparé avec du poisson mariné, souvent du mérou, de la dorade, du yaboye , du riz cuit dans une sauce tomate épicée, et accompagné de légumes tels que des carottes, du chou, et des aubergines. Le plat est souvent agrémenté de yét (mollusque séché), de guedj (poisson séché),de piment,etc...",
+      "imageUrl": "https://drive.google.com/file/d/1QrCTKJCaymF2UE7EqR11lRb4hOnrb9HT/view?usp=drive_link",
+      "histoireEtOrigine": "Originaire de Saint-Louis, ce plat a été inventé par Penda Mbaye au XIXe siècle.",
+      "ingredients": [
+        "Poisson (mérou, dorade, etc...)",
+        "Riz",
+        "sel de mer"
+        "ail",
+        "persil",
+        "poivre",
+        "Tomates",
+        "Huile",
+        "Oignons",
+        "Carottes",
+        "Chou",
+        "Aubergines",
+        "Piments",
+        "Yét (mollusque séché)",
+        "Guedj (poisson séché)"
+      ],
+    },
+    {
+      "id": 3,
+      "title": "Yassa",
+      "videoCuisson": "https://www.youtube.com/watch?v=HD90Kouxsvc",
+      "categorie": "repas",
+      "description": "Un plat de poulet,poisson ou viande mariné dans du citron et des oignons, servi avec du riz.",
+      "fullDescription": "Le Yassa Poulet est un plat emblématique du Sénégal et de la région Casamance. Il se distingue par sa marinade à base de citron, oignons et moutarde, qui imprègne la viande de poulet,le poisson ou un autre type de viande avant d'être grillée et mijotée.La sauce est le plus souvent accompagné de riz cuit à l'eau un peu salée ",
+      "imageUrl": "https://drive.google.com/file/d/1ltPvzAROXHW5X8K3nCUYcnSqUQ3l4m5M/view?usp=drive_link",
+      "histoireEtOrigine": "Originaire de la région Casamance, ce plat est très populaire dans toute l'Afrique de l'Ouest.",
+      "ingredients": [
+        "Poulet",
+        "Oignons",
+        "Citron",
+        "Ail",
+        "Huile",
+        "Poivre",
+        "Riz"
+        "sel de mer"
+      ],
+    },
+    {
+      "id": 4,
+      "title": "Mafé",
+      "videoCuisson": "https://www.youtube.com/watch?v=gELOiLqKYzQ",
+      "categorie": "repas",
+      "description": "Un ragoût de viande à base de sauce pâte d'arachide, servi avec du riz.",
+      "fullDescription": "Le Mafé est un ragoût délicieux préparé avec une sauce à base de pâte d'arachide grillé qui donne au plat sa texture crémeuse. Il est souvent préparé avec du bœuf, du poulet ou du mouton, accompagné ou pas de légumes comme la carotte, le chou, et le gombo, servi avec du riz cuit à l'eau un peu salée.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Ce plat est originaire des régions de l'ouest de l'Afrique, particulièrement apprécié au Sénégal et en Gambie.",
+      "ingredients": [
+        "Viande (bœuf, poulet ou mouton)",
+        "Pâte d'arachide",
+        "Gombo",
+        "Riz",
+        "Oignons",
+        ""Huile",
+        "Ail",
+        "Poivre",
+        "sel de mer" 
+      ],
+    },
+    {
+      "id": 5,
+      "title": "Soupou Kandja",
+      "videoCuisson": "https://www.youtube.com/watch?v=EQ6fDlWiDwQ",
+      "categorie": "repas",
+      "description": "Une soupe épaisse à base de gombo et de poisson fumé.",
+      "fullDescription": "La Soupou Kandja est une soupe épaisse et savoureuse préparée avec du gombo, des épices, et souvent du poisson fumé ou de la viande. Ce plat est riche en saveurs et est généralement servi avec du riz blanc.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Ce plat est originaire des régions côtières du Sénégal, où le poisson fumé est largement utilisé.",
+      "ingredients": [
+        "Gombo",
+        "Poisson fumé",
+        "Huile de palme",
+        "Oignons",
+        "Huile",
+        "Ail",
+        "Tomates"
+        "Aubergine amère"
+      ],
+    },
+    {
+      "id": 6,
+      "title": "Domoda",
+      "videoCuisson": "",
+      "categorie": "repas",
+      "description": "Une soupe épaisse, acide et pimentée à base de tomate et de farine de blé accompgné de légumes.",
+      "fullDescription": "La Soupou Domoda est une soupe épaisse et savoureuse préparée avec de la tomate, des épices, du poisson ou de la viande. Ce plat connu pour etre épicé et acide. Elle est généralement servi avec du riz blanc.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Ce plat est originaire des régions orientales du Sénégal.",
+      "ingredients": [
+        "Sauce tomate",
+        "Poisson(ou viande de boeuf)",
+        "Ail",
+        "Oignons",
+        "Ail",
+        "manioc",
+        "Aubergine",
+        "Carotte",
+        "Huile"
+      ],
+    },
+    {
+      "id": 7,
+      "title": "Mbakhalou Saloum",
+      "videoCuisson": "https://www.youtube.com/results?search_query=mbaxalou+saloum",
+      "categorie": "repas",
+      "description": "Le Mbakhalou Saloum est un plat simple et digeste à base poudre d'arachide et de riz.",
+      "fullDescription": "Le Mbakhalou Saloum est prisé pour sa simplicité,sa richesse en nutriment et est digeste. Il est à base poudre d'arachide,de riz, de fruits de mer ou de poisson salé et s'accompagne souvent d'huile de palme.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Le Mbakhalou Saloum,comme son nom l'indique est originaire du saloum, une region du Sénégal peuplé par les wolofs.",
+      "ingredients": [
+        "Poudre d'arachide",
+        "Poisson salé(ou viande de boeuf)",
+        "Ail",
+        "Oignons",
+        "Nététou",
+        "fruit de mer",
+        "Niébé",
+        "Riz",
+        "Sel",
+        "Huile"
+        
+      ],
+    }
+  ],  
+  "desserts": [
+    {
+      "id": 1,
+      "title": "Thiakry",
+      "videoCuisson": "https://www.youtube.com/watch?v=HIbOIa5Sg7s",
+      "categorie": "dessert",
+      "description": "Un dessert traditionnel à base de mil et de lait caillé.",
+      "fullDescription": "Le Thiakry est un dessert populaire fait de couscous de mil mélangé à du lait fermenté ou du yaourt, souvent sucré avec du sucre ou du lait condensé.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Originaire des régions sahéliennes, il est apprécié dans toute l'Afrique de l'Ouest.",
+      "ingredients": [
+        "Mil",
+        "Lait fermenté",
+        "Sucre",
+        "Lait condensé"
+      ],
+      },
+      {
+      "id": 2,
+      "title": "Sombi guerté",
+      "videoCuisson": "https://www.youtube.com/watch?v=1AXLLKuYhQY",
+      "categorie": "dessert",
+      "description": "Une bouillie de riz avec de la poudre d'arachide.",
+      "fullDescription": "Le Sombi guerté est une bouillie de riz avec de la poudre d'arachide accompagné de sucre , de raisin sec, de coco rapé et de lait. Ces élements optionnels. Il n'y a que le riz et la poudre qui font du plat ce qu'il est.Il est prisé pour sa facilité de préparation et digestion ",
+      "imageUrl": "",
+      "histoireEtOrigine": "Les Sombi guerté est dessert connue au sénégal et en gambie .",
+      "ingredients": [
+        "Farine",
+        "Sucre",
+        "Noix de coco râpée",
+        "Beurre",
+        "Lait"
+      ],
+   ],
+  "jus": [
+    {
+      "id": 1,
+      "title": "Jus de Bissap",
+      "videoCuisson": "https://www.youtube.com/watch?v=KJZpkgUPS9E",
+      "categorie": "jus",
+      "description": "Une boisson rafraîchissante faite à base de fleurs d'hibiscus avec ou sans feuille de menthe.",
+      "fullDescription": "Le jus de Bissap est une boisson populaire en Afrique de l'Ouest, faite à partir de fleurs d'hibiscus séchées bouillies, sucrées et refroidies. C'est une boisson riche en vitamine C.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Originaire d'Afrique de l'Ouest, le jus de Bissap est consommé lors des fêtes et événements spéciaux.",
+      "ingredients": [
+        "Fleurs d'hibiscus",
+        "Sucre",
+        "Menthe",
+        "Eau"
+      ],
+    },
+    {
+      "id": 2,
+      "title": "Bouye (Jus de baobab)",
+      "videoCuisson": "https://www.youtube.com/watch?v=fO2nGBEe7UE&t=92s",
+      "categorie": "dessert",
+      "description": "Une boisson rafraîchissante à base de fruit de baobab.",
+      "fullDescription": "Le Bouye est un jus rafraîchissant préparé à partir de la pulpe du fruit de baobab. Il est souvent mélangé avec de l'eau, du sucre et parfois du lait condensé, ce qui lui donne une texture onctueuse et un goût légèrement acidulé.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Le jus de baobab est consommé dans de nombreuses régions d'Afrique et est réputé pour ses vertus nutritives.Il est riche en calcium et est prisé pour les bouillie des touts petis",
+      "ingredients": [
+        "Pulpe de baobab",
+        "Eau",
+        "Sucre",
+        "Lait condensé"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Jus de Gingembre",
+      "videoCuisson": "https://www.youtube.com/watch?v=AWrQi-S9GzI",
+      "categorie": "jus",
+      "description": "Une boisson épicée à base de gingembre frais.",
+      "fullDescription": "Le jus de gingembre est une boisson épicée et rafraîchissante, faite à base de gingembre frais râpé, d'eau, de sucre et parfois de citron. C'est une boisson revigorante consommée surtout lors des périodes de chaleur.",
+      "imageUrl": "",
+      "histoireEtOrigine": "Très populaire dans toute l'Afrique de l'Ouest, le jus de gingembre est souvent servi lors des événements familiaux ou communautaires.",
+      "ingredients": [
+        "Gingembre frais",
+        "Sucre",
+        "Citron",
+        "Eau"
+      ]
+    }
+  ]
+}
+
