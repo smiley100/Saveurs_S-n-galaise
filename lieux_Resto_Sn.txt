@@ -1,0 +1,525 @@
+{
+"id": "2",
+"location": {
+  "regionName": "Dakar",
+  "latitude": 14.7167,
+  "longitude": -17.4267
+ },
+ "title": "International Delights",
+ "description": "Une sélection de plats internationaux préparés par des chefs expérimentés.",
+ "categories": ["Cuisine Internationale", "luxe"],
+ "note": 4.5,
+ "telephone": "+221 33 987 6543",
+ "mail": "info@internationaldelights.sn",
+ "services": [
+   {
+     "client": { "nom": "Jean Paul", "email": "jean@example.com" },
+     "commentaireClient": "Une expérience culinaire inoubliable.",
+     "note": 5,
+     "dateDebut": "2023-07-15T00:00:00Z",
+     "dateFin": "2023-07-15T00:00:00Z"
+   }
+ ],
+ "ouvert": true,
+ "plats": [
+   {
+     "nom": "Pâtes Carbonara",
+     "description": "Pâtes à la sauce carbonara crémeuse avec du bacon.",
+     "prix": 7000,
+     "categorie": ["repas"]
+   },
+   {
+     "nom": "Salade César",
+     "description": "Salade verte avec poulet grillé, croûtons et parmesan.",
+     "prix": 3500,
+     "categorie": ["entrée"]
+   },
+   {
+     "nom": "Tiramisu",
+     "description": "Dessert italien à base de mascarpone et de café.",
+     "prix": 4000,
+     "categorie": ["dessert"]
+   },
+   {
+     "nom": "Vin Rouge",
+     "description": "Un vin rouge corsé pour accompagner les repas.",
+     "prix": 8000,
+     "categorie": ["boisson"]
+   }
+ ],
+ "gerant": { "nom": "Awa Diop", "email": "awa@example.com" },
+ "menus": [
+   {
+      "nom": "Pâtes Carbonara",
+      "description": "Pâtes à la sauce carbonara crémeuse avec du bacon.",
+      "prix": 7000,
+      "categorie": ["repas"]
+   },
+   {
+      "nom": "Salade César",
+      "description": "Salade verte avec poulet grillé, croûtons et parmesan.",
+      "prix": 3500,
+      "categorie": ["entrée"]
+    },
+    {
+       "nom": "Tiramisu",
+       "description": "Dessert italien à base de mascarpone et de café.",
+       "prix": 4000,
+       "categorie": ["dessert"]
+     }
+ ],
+ "photos":[
+        "https://th.bing.com/th/id/OIP.zgmWCVmBHVqlMGEM_CjEUwHaD4?w=322&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+ ]
+},
+{
+  "id": "3",
+  "location": {
+    "regionName": "Saly",
+    "latitude": 14.4419,
+    "longitude": -17.0000
+  },
+  "title": "Le Gourmet International",
+  "description": "Un mélange de saveurs du monde avec une touche africaine.",
+  "categories": ["Cuisine Internationale", "fusion"],
+  "note": 4.8,
+  "telephone": "+221 33 984 1234",
+  "mail": "contact@legourmet.sn",
+  "services": [
+    {
+      "client": { "nom": "Fatou Ndiaye", "email": "fatou@example.com" },
+      "commentaireClient": "Excellente fusion des saveurs.",
+      "note": 5,
+      "dateDebut": "2023-05-20T00:00:00Z",
+      "dateFin": "2023-05-20T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Bœuf Stroganoff",
+      "description": "Bœuf tendre avec sauce crémeuse au vin blanc et champignons.",
+      "prix": 9000,
+      "categorie": ["repas"]
+    },
+    {
+      "nom": "Curry Thaïlandais",
+      "description": "Poulet au curry vert avec lait de coco et riz jasmin.",
+      "prix": 8000,
+      "categorie": ["repas"]
+    },
+    {
+      "nom": "Crème Brûlée",
+      "description": "Dessert français classique à base de crème vanille et caramel.",
+      "prix": 4500,
+      "categorie": ["dessert"]
+    },
+    {
+      "nom": "Cocktail Tropical",
+      "description": "Mélange de fruits tropicaux avec une touche de rhum.",
+      "prix": 6000,
+      "categorie": ["boisson"]
+    }
+  ],
+  "gerant": { "nom": "Amadou Ba", "email": "amadou@example.com" },
+  "menus": [
+    {
+      "nom": "Menu Dégustation",
+      "description": "Un assortiment de plats internationaux en 5 services.",
+      "prix": 25000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/474x/58/22/47/582247bb7498e127c9b38d221d0a8a1c.jpg"
+  ]
+},
+{
+  "id": "4",
+  "location": {
+    "regionName": "Saint-Louis",
+    "latitude": 16.0326,
+    "longitude": -16.4897
+  },
+  "title": "La Table du Chef",
+  "description": "Cuisine raffinée avec des ingrédients importés et locaux.",
+  "categories": ["Cuisine Internationale", "gourmet"],
+  "note": 4.7,
+  "telephone": "+221 33 983 5678",
+  "mail": "reservation@latableduchef.sn",
+  "services": [
+    {
+      "client": { "nom": "Mamadou Diop", "email": "mamadou@example.com" },
+      "commentaireClient": "Service impeccable et plats exquis.",
+      "note": 4.9,
+      "dateDebut": "2023-06-10T00:00:00Z",
+      "dateFin": "2023-06-10T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Risotto aux Truffes",
+      "description": "Risotto crémeux avec des truffes noires et parmesan.",
+      "prix": 12000,
+      "categorie": ["repas"]
+    },
+    {
+      "nom": "Sushis Assortis",
+      "description": "Sélection de sushis frais avec du poisson de qualité supérieure.",
+      "prix": 10000,
+      "categorie": ["entrée"]
+    },
+    {
+      "nom": "Mousse au Chocolat",
+      "description": "Délicieuse mousse au chocolat noir avec éclats de cacao.",
+      "prix": 5000,
+      "categorie": ["dessert"]
+    },
+    {
+      "nom": "Vin Blanc",
+      "description": "Un vin blanc léger, idéal pour accompagner les fruits de mer.",
+      "prix": 7000,
+      "categorie": ["boisson"]
+    }
+  ],
+  "gerant": { "nom": "Sophie Ndiaye", "email": "sophie@example.com" },
+  "menus": [
+    {
+      "nom": "Menu Gourmet",
+      "description": "Un menu gastronomique avec une touche internationale.",
+      "prix": 30000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/736x/2e/eb/53/2eeb5375618027ad0bd463cd7d9e5839.jpg"
+  ]
+},
+{
+  "id": "5",
+  "location": {
+    "regionName": "Dakar",
+    "latitude": 14.6928,
+    "longitude": -17.4467
+  },
+  "title": "Café Touba Delight",
+  "description": "Un café traditionnel avec une touche moderne, proposant le fameux café Touba.",
+  "categories": ["Café", "Traditionnel"],
+  "note": 4.3,
+  "telephone": "+221 33 976 1234",
+  "mail": "contact@cafetoubadelight.sn",
+  "services": [
+    {
+      "client": { "nom": "Ibrahima Sy", "email": "ibrahima@example.com" },
+      "commentaireClient": "Le meilleur café Touba de la ville.",
+      "note": 4.8,
+      "dateDebut": "2023-08-01T00:00:00Z",
+      "dateFin": "2023-08-01T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Café Touba",
+      "description": "Boisson chaude traditionnelle infusée avec des épices locales.",
+      "prix": 1000,
+      "categorie": ["boisson"]
+    },
+    {
+      "nom": "Thé à la Menthe",
+      "description": "Thé vert servi avec des feuilles de menthe fraîche.",
+      "prix": 1500,
+      "categorie": ["boisson"]
+    },
+    {
+      "nom": "Beignets",
+      "description": "Beignets sucrés servis chauds.",
+      "prix": 500,
+      "categorie": ["snack"]
+    }
+  ],
+  "gerant": { "nom": "Mamadou Gaye", "email": "mamadou@example.com" },
+  "menus": [
+    {
+      "nom": "Petit-Déjeuner Sénégalais",
+      "description": "Café Touba avec beignets et pain au lait.",
+      "prix": 2000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/736x/d2/69/d8/d269d82a6045bf527e686ace436b30a6.jpg"
+  ]
+},
+{
+  "id": "6",
+  "location": {
+    "regionName": "Saint-Louis",
+    "latitude": 16.0326,
+    "longitude": -16.4897
+  },
+  "title": "Brew Café",
+  "description": "Un café moderne offrant des spécialités de café artisanal et des pâtisseries fraîches.",
+  "categories": ["Café", "Artisanal"],
+  "note": 4.7,
+  "telephone": "+221 33 980 2345",
+  "mail": "brew@cafe.sn",
+  "services": [
+    {
+      "client": { "nom": "Mariama Diouf", "email": "mariama@example.com" },
+      "commentaireClient": "Excellents cafés et ambiance conviviale.",
+      "note": 5,
+      "dateDebut": "2023-09-05T00:00:00Z",
+      "dateFin": "2023-09-05T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Cappuccino",
+      "description": "Café espresso avec mousse de lait.",
+      "prix": 2500,
+      "categorie": ["boisson"]
+    },
+    {
+      "nom": "Croissant",
+      "description": "Croissant au beurre frais, parfait pour le matin.",
+      "prix": 1500,
+      "categorie": ["pâtisserie"]
+    },
+    {
+      "nom": "Latte",
+      "description": "Café au lait crémeux servi avec un motif artistique.",
+      "prix": 3000,
+      "categorie": ["boisson"]
+    }
+  ],
+  "gerant": { "nom": "Aïcha Seck", "email": "aicha@example.com" },
+  "menus": [
+    {
+      "nom": "Brunch Brew",
+      "description": "Sélection de boissons chaudes avec pâtisseries et fruits.",
+      "prix": 5000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/736x/9c/51/ae/9c51ae9f97a7b5e9ddb663553cf7024e.jpg"
+  ]
+},
+{
+  "id": "7",
+  "location": {
+    "regionName": "Ziguinchor",
+    "latitude": 12.5645,
+    "longitude": -16.2719
+  },
+  "title": "Café des Arts",
+  "description": "Un lieu où café et culture se rencontrent, proposant des expositions artistiques.",
+  "categories": ["Café", "Culturel"],
+  "note": 4.6,
+  "telephone": "+221 33 973 4567",
+  "mail": "arts@cafe.sn",
+  "services": [
+    {
+      "client": { "nom": "El Hadji Faye", "email": "elhadji@example.com" },
+      "commentaireClient": "Un café où l'art et le bon café se mélangent parfaitement.",
+      "note": 4.7,
+      "dateDebut": "2023-07-22T00:00:00Z",
+      "dateFin": "2023-07-22T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Expresso",
+      "description": "Un café fort et concentré pour les amateurs de café.",
+      "prix": 2000,
+      "categorie": ["boisson"]
+    },
+    {
+      "nom": "Pain au Chocolat",
+      "description": "Pâtisserie française avec une touche de chocolat.",
+      "prix": 1800,
+      "categorie": ["pâtisserie"]
+    },
+    {
+      "nom": "Mocha",
+      "description": "Café avec du chocolat et du lait, un délice sucré.",
+      "prix": 3500,
+      "categorie": ["boisson"]
+    }
+  ],
+  "gerant": { "nom": "Bintou Ndiaye", "email": "bintou@example.com" },
+  "menus": [
+    {
+      "nom": "Menu Café Culture",
+      "description": "Expresso avec pâtisserie, servi pendant les expositions d'art.",
+      "prix": 4000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/736x/48/41/ba/4841ba5a35c3ed9c2e69af0cd2d90c44.jpg"
+  ]
+},
+{
+  "id": "8",
+  "location": {
+    "regionName": "Dakar",
+    "latitude": 14.6928,
+    "longitude": -17.4467
+  },
+  "title": "Restaurant Le Dakar",
+  "description": "Un restaurant réputé pour ses plats traditionnels sénégalais, notamment le thiéboudienne et le yassa.",
+  "categories": ["Restaurant", "Cuisine Sénégalaise"],
+  "note": 4.8,
+  "telephone": "+221 33 123 4567",
+  "mail": "ledakar@restaurant.sn",
+  "services": [
+    {
+      "client": { "nom": "Aissatou Sow", "email": "aissatou@example.com" },
+      "commentaireClient": "Les plats sont savoureux et le service est impeccable.",
+      "note": 5,
+      "dateDebut": "2023-09-10T00:00:00Z",
+      "dateFin": "2023-09-10T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Thiéboudienne",
+      "description": "Riz au poisson avec des légumes et une sauce tomate épicée.",
+      "prix": 7000,
+      "categorie": ["plat national"]
+    },
+    {
+      "nom": "Yassa Poulet",
+      "description": "Poulet mariné dans du citron et des oignons, servi avec du riz.",
+      "prix": 6000,
+      "categorie": ["plat national"]
+    },
+    {
+      "nom": "Mafé",
+      "description": "Ragoût de viande dans une sauce à base de pâte d'arachide.",
+      "prix": 6500,
+      "categorie": ["plat national"]
+    }
+  ],
+  "gerant": { "nom": "Boubacar Ndiaye", "email": "boubacar@example.com" },
+  "menus": [
+    {
+      "nom": "Menu Traditionnel",
+      "description": "Une sélection de plats nationaux avec boisson incluse.",
+      "prix": 12000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/736x/89/af/c6/89afc64df874bc2751bec361de284631.jpg"
+  ]
+},
+{
+  "id": "9",
+  "location": {
+    "regionName": "Thiès",
+    "latitude": 14.7874,
+    "longitude": -16.9491
+  },
+  "title": "La Table Thiessoise",
+  "description": "Un restaurant accueillant qui met à l'honneur la gastronomie sénégalaise avec une touche moderne.",
+  "categories": ["Restaurant", "Cuisine Sénégalaise"],
+  "note": 4.6,
+  "telephone": "+221 33 987 6543",
+  "mail": "tablethiessoise@restaurant.sn",
+  "services": [
+    {
+      "client": { "nom": "Fatou Ndiaye", "email": "fatou@example.com" },
+      "commentaireClient": "Les portions sont généreuses et les saveurs authentiques.",
+      "note": 4,
+      "dateDebut": "2023-09-12T00:00:00Z",
+      "dateFin": "2023-09-12T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Couscous Sénégalais",
+      "description": "Couscous servi avec une sauce de légumes et de la viande.",
+      "prix": 5500,
+      "categorie": ["plat national"]
+    },
+    {
+      "nom": "Sombi",
+      "description": "Riz au lait sucré, un dessert traditionnel.",
+      "prix": 2500,
+      "categorie": ["dessert"]
+    }
+  ],
+  "gerant": { "nom": "Omar Ba", "email": "omar@example.com" },
+  "menus": [
+    {
+      "nom": "Menu Découverte",
+      "description": "Une sélection de plats typiques avec boisson incluse.",
+      "prix": 11000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/474x/59/5b/87/595b87d6069ae4f75dee2607994f4840.jpg"
+  ]
+},
+{
+  "id": "10",
+  "location": {
+    "regionName": "Kaolack",
+    "latitude": 14.1731,
+    "longitude": -16.2037
+  },
+  "title": "Le Bon Goût",
+  "description": "Un restaurant populaire offrant une variété de plats traditionnels sénégalais dans une ambiance conviviale.",
+  "categories": ["Restaurant", "Cuisine Sénégalaise"],
+  "note": 4.9,
+  "telephone": "+221 33 567 8901",
+  "mail": "legout@restaurant.sn",
+  "services": [
+    {
+      "client": { "nom": "Sokhna Diagne", "email": "sokhna@example.com" },
+      "commentaireClient": "Un vrai délice! Chaque plat est préparé avec soin.",
+      "note": 5,
+      "dateDebut": "2023-09-15T00:00:00Z",
+      "dateFin": "2023-09-15T00:00:00Z"
+    }
+  ],
+  "ouvert": true,
+  "plats": [
+    {
+      "nom": "Poisson Grillé",
+      "description": "Poisson mariné et grillé, servi avec du riz et des légumes.",
+      "prix": 7000,
+      "categorie": ["plat national"]
+    },
+    {
+      "nom": "Tiebou Yapp",
+      "description": "Riz au viande de mouton, épices et légumes.",
+      "prix": 8000,
+      "categorie": ["plat national"]
+    }
+  ],
+  "gerant": { "nom": "Moussa Cissé", "email": "moussa@example.com" },
+  "menus": [
+    {
+      "nom": "Menu Spécial",
+      "description": "Plat du jour avec une boisson au choix.",
+      "prix": 9000,
+      "categorie": ["menu"]
+    }
+  ],
+  "photos": [
+    "https://i.pinimg.com/736x/1a/12/cf/1a12cfb38da60910c4bac75b218ee09c.jpg"
+  ]
+}
+
+
+
